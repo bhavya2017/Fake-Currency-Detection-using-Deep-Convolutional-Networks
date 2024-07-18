@@ -23,3 +23,6 @@ Make sure to run this command in the same terminal or command prompt window wher
 Run app.py:\
 Once you're in the directory containing app.py and TensorFlow is installed, you can run the script using the python command followed by the name of the script file. For example:
 python app.py
+
+![image](https://github.com/user-attachments/assets/aaa7973f-e4b7-4a08-8d3c-d82aa1abd770)
+
